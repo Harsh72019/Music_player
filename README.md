@@ -1,2 +1,4 @@
-# create_an_MP3_player
-We will create an MP3 player using pygame and Tkinter for GUI.
+# Mp3 player
+Here is a simple mp3 player using python 
+# Modules used 
+tkinter for gui ,  pygame for audio playing , os for media selection
